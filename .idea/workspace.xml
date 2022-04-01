@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="63462dfd-aa5f-4e8a-a07e-c8b37ffdba14" name="Changes" comment="219099839-Factory and FactoryTest" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -26,7 +25,6 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -101,7 +99,56 @@
       <option name="presentableId" value="Default" />
       <updated>1648818219421</updated>
     </task>
-
+    <task id="LOCAL-00001" summary="219099839-BuilderBasePattern">
+      <created>1648836297640</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1648836297640</updated>
+    </task>
+    <task id="LOCAL-00002" summary="219099839-Factory">
+      <created>1648838801186</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1648838801186</updated>
+    </task>
+    <task id="LOCAL-00003" summary="219099839-Factory and FactoryTest">
+      <created>1648839619994</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1648839619994</updated>
+    </task>
+    <task id="LOCAL-00004" summary="219099839-Factory and FactoryTest">
+      <created>1648840079941</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1648840079941</updated>
+    </task>
+    <task id="LOCAL-00005" summary="219099839-Factory and FactoryTest">
+      <created>1648848974327</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1648848974327</updated>
+    </task>
+    <task id="LOCAL-00006" summary="219099839-Factory and FactoryTest">
+      <created>1648849154059</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1648849154059</updated>
+    </task>
+    <task id="LOCAL-00007" summary="219099839-Factory and FactoryTest">
+      <created>1648849494147</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1648849494147</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -116,6 +163,24 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-
+    <MESSAGE value="219099839-BuilderBasePattern" />
+    <MESSAGE value="219099839-Factory" />
+    <MESSAGE value="219099839-Factory and FactoryTest" />
+    <option name="LAST_COMMIT_MESSAGE" value="219099839-Factory and FactoryTest" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/za/ac/cput/factory/ManagerFactoryTest.java</url>
+          <line>16</line>
+          <properties class="za.ac.cput.factory.ManagerFactoryTest" method="createManager">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
